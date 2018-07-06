@@ -1,7 +1,7 @@
 # Blender-PlaneImation-Demo
 a bge example project for controlling different animations using logic bricks and planes
 
-the sprite sheet included here is not mine and should not be used in any commercial project, learning only! you've been warned Lol
+the sprite sheet included here is not mine, it was included by request, and should not be used in any commercial project, learning only! you've been warned Lol
 
 so I included 3 different examples of animation
 
