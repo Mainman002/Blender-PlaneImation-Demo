@@ -6,7 +6,9 @@ the sprite sheet included here is not mine and should not be used in any commerc
 so I included 3 different examples of animation
 
 #1 states that switch when a property reaches a certain number
+
 #2 a constant cycling animation
+
 #3 a simple 2d platformer player setup
 
 move around with A,D, Left / Right Arrows, and jump with W and UP Arrow keys
